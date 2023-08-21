@@ -63,4 +63,5 @@ typings/
 *.sh
 .gitsecret/keys/random_seed
 tryImg/
+yarn.lock
 key.json
